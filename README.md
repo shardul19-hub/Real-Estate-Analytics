@@ -169,4 +169,4 @@ This was a team capstone (Group 5, NAIT DATA 3960). My primary contributions:
 ## Contact
 
 **Shardul Parekh**
-📍 Edmonton, AB · ✉️ shardulparekh19@gmail.com · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/yourhandle)
+📍 Edmonton, AB · ✉️ shardulparekh19@gmail.com · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/shardul19-hub)
