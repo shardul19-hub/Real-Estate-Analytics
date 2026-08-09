@@ -116,8 +116,6 @@ edmonton-real-estate-analytics/
 │   ├── 02_feature_engineering_geocoding.ipynb   # F1–F5 features + 5-layer geocoding pipeline
 │   ├── 03_modeling_and_forecasting_final.ipynb  # OLS / RF / Gradient Boosting + SARIMA (final results)
 │   └── earlier-iterations/                       # earlier modeling drafts, kept to show iteration
-├── dashboard/
-│   └── README.md                                 # (add your Power BI .pbit template here)
 ├── docs/
 │   ├── Final_Capstone_Report.pdf                 # Full technical report
 │   └── Artefacts_Requirements.pdf                # Data science lifecycle documentation
@@ -169,4 +167,4 @@ This was a team capstone (Group 5, NAIT DATA 3960). My primary contributions:
 ## Contact
 
 **Shardul Parekh**
-📍 Edmonton, AB · ✉️ shardulparekh19@gmail.com · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/shardul19-hub)
+📍 Edmonton, AB · ✉️ shardulparekh19@gmail.com · [LinkedIn](https://www.linkedin.com/)
